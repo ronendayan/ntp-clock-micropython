@@ -1,4 +1,4 @@
-#NTP Clock using MicroPython  
+# NTP Clock using MicroPython  
 ESP8266 (Wemos D1 Mini) with DHT11 sensor and dot LED matrix on MAX7219  
 
 ## Connect sensors and display to ESP32
